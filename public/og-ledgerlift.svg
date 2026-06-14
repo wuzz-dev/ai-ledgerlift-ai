@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">LedgerLift AI</title>
+  <desc id="desc">Accounting workflow dashboard preview.</desc>
+  <rect width="1200" height="630" fill="#f5f1e8"/>
+  <rect x="70" y="70" width="1060" height="490" rx="26" fill="#0d3b3e"/>
+  <rect x="118" y="128" width="400" height="374" rx="18" fill="#ffffff"/>
+  <rect x="558" y="128" width="520" height="374" rx="18" fill="#e6f2ef"/>
+  <text x="150" y="195" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#0d3b3e">LedgerLift AI</text>
+  <text x="150" y="250" font-family="Arial, sans-serif" font-size="25" fill="#516263">Invoice autopilot for AP teams</text>
+  <rect x="150" y="320" width="302" height="44" rx="10" fill="#f0b84f"/>
+  <text x="178" y="350" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#1d261f">92% straight-through drafts</text>
+  <rect x="610" y="188" width="410" height="58" rx="12" fill="#ffffff"/>
+  <rect x="610" y="270" width="410" height="58" rx="12" fill="#ffffff"/>
+  <rect x="610" y="352" width="410" height="58" rx="12" fill="#ffffff"/>
+  <circle cx="646" cy="217" r="13" fill="#2f8f78"/>
+  <circle cx="646" cy="299" r="13" fill="#f0b84f"/>
+  <circle cx="646" cy="381" r="13" fill="#dd5f4f"/>
+</svg>
